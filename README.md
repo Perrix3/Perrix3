@@ -2,6 +2,14 @@ hi
 
 This profile is a WIP
 
+## Languages and Software
+[![Languages](https://skillicons.dev/icons?i=java,py,cpp,js,html,css)](https://skillicons.dev)
+
+[![More](https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,docker,linux,obsidian)](https://skillicons.dev)
+
+
+
+
 ## GitHub stats UwU
 
 [![Perrix3'sb GitHub stats](https://github-readme-stats.vercel.app/api?username=Perrix3&count_private=true&show_icons=true&theme=radical)](https://github.com/Perrix3)
